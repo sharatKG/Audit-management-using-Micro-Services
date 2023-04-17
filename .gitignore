@@ -1,0 +1,14 @@
+
+*.jar
+Audit-Checklist-microservice/bin/mvnw
+Audit-Checklist-microservice/bin/src/main/java/com/cts/audit/checklist/AuditChecklistMicroserviceApplication.class
+*.class
+Audit-Checklist-microservice/bin/.mvn/wrapper/maven-wrapper.properties
+*.jar
+Audit-Checklist-microservice/bin/.mvn/wrapper/maven-wrapper.jar
+logs/benchmark.txt*
+
+*.txt
+*.gz
+*.MF
+Audit-Benchmark-microservice/target/classes/META-INF/maven/com.cts.audit/Benchmark/pom.properties
